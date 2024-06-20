@@ -24,7 +24,7 @@ QuickDocs - это веб-приложение, которое позволяе�
   <img width="12" />
   <a href="https://www.drupal.org/about/10"><img src="https://infogeek.in/assets/images/features/mvc.png" height="40" alt="aspnet logo"  /></a>
   <img width="12" />
-  <a href="https://winscp.net/eng/download.php><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="mssql logo"  /></a>
+  <a href="https://winscp.net/eng/index.php><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="mssql logo"  /></a>
   <img width="12" />
   </br>
   <h3>Frontend:</h3>
