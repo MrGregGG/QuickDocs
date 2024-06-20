@@ -22,9 +22,9 @@ QuickDocs - это веб-приложение, которое позволяе�
   <h3>Backend:</h3>
   <a href="https://pantheon.io/"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nu74cbgqNwT3q8UXQJ1IoB3rERDcJAu6jSb0eNxQ=s900-c-k-c0x00ffffff-no-rj" height="40" alt="pantheon logo"  /></a>
   <img width="12" />
-  <a href="https://www.drupal.org/about/10"><img src="https://infogeek.in/assets/images/features/mvc.png" height="40" alt="drupal logo"  /></a>
+  <a href="https://www.drupal.org/about/10"><img src="https://cdn.worldvectorlogo.com/logos/drupal-3.svg" height="40" alt="drupal logo"  /></a>
   <img width="12" />
-  <a href="https://winscp.net/eng/index.php><img src="https://infogeek.in/assets/images/features/mvc.png" height="40" alt="winscp logo"  /></a>
+  <a href="https://winscp.net/eng/index.php><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height="40" alt="winscp logo"  /></a>
   <img width="12" />
   </br>
   <h3>Frontend:</h3>
