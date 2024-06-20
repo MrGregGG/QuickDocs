@@ -44,4 +44,4 @@ Hello, Project! - это команда творческих разработч�
 ## Ссылки
 
 [Канбан-доска](https://yougile.com/team/47cdad97f983/DIGITAL-PORTFOLIO/Задачи) &nbsp;&middot;&nbsp;
-[Карточка проекта](https://project.ai-info.ru/sites/default/files/kartochka_proekta.pdf)
+[Карточка проекта](https://products.groupdocs.app/viewer/app/?lang=ru&file=2c285695-9c49-42b3-b200-f2fe85b69da1%2F%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20(3).pptx)
