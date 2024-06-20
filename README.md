@@ -7,7 +7,6 @@
   <br>
 </h1>
 
-<h4 align="center">Веб-приложение для организации, хранения, публикации  материалов  конкретного пользователя.</h4>
 
 ![screenshot](https://i.postimg.cc/qqYWKS8q/image-translated-3.jpg)
 
