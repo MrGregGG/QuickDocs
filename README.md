@@ -20,7 +20,7 @@ QuickDocs - это веб-приложение, которое позволяе�
 ## Разработано с помощью:
 <div align="left">
   <h3>Backend:</h3>
-  <a href="https://pantheon.io/"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nu74cbgqNwT3q8UXQJ1IoB3rERDcJAu6jSb0eNxQ=s900-c-k-c0x00ffffff-no-rj" height="40" alt="pantheon logo"  /></a>
+  <a href="https://pantheon.io/"><img src="https://w7.pngwing.com/pngs/780/67/png-transparent-pantheon-logo-business-drupal-pantheon-text-logo-cloud-computing.png" height="40" alt="pantheon logo"  /></a>
   <img width="12" />
   <a href="https://www.drupal.org/about/10"><img src="https://cdn.worldvectorlogo.com/logos/drupal-3.svg" height="40" alt="drupal logo"  /></a>
   <img width="12" />
