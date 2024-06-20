@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://project.ai-info.ru/teams/hello-project"><img src="https://dev-hello-project.pantheonsite.io/sites/default/files/3d4c5770c88b5b3ab7287096ea90fac7%20%282%29-Photoroom.png" alt="QuickDocs" width="200"></a>
+  <a href="https://project.ai-info.ru/teams/hello-project"><img src="https://dev-hello-project.pantheonsite.io/sites/default/files/3d4c5770c88b5b3ab7287096ea90fac7%20%282%29-Photoroom.png" alt="Hello, Project!" width="200"></a>
   <br>
   QuickDocs
   <br>
