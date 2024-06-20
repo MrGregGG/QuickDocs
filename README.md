@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://dev-hello-project.pantheonsite.io"><img src="https://vk.com/doc316010115_680451225?hash=y506HNUO3CVbBtWwCBzXfDTLW5BajBEPNgozf7NGZZX&dl=E011wtKj8NLUZIgbVGwyAoeXzThcz1ENQnFoLQSayZH" alt="QuickDocs" width="200"></a>
+  <a href="https://dev-hello-project.pantheonsite.io"><img src="https://dev-hello-project.pantheonsite.io/sites/default/files/3d4c5770c88b5b3ab7287096ea90fac7%20%282%29-Photoroom.png" alt="QuickDocs" width="200"></a>
   <br>
   QuickDocs
   <br>
