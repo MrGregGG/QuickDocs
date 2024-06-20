@@ -24,7 +24,7 @@ QuickDocs - это веб-приложение, которое позволяе�
   <img width="12" />
   <a href="https://www.drupal.org/about/10"><img src="https://cdn.worldvectorlogo.com/logos/drupal-3.svg" height="40" alt="drupal logo"  /></a>
   <img width="12" />
-  <a href="https://www.drupal.org/about/10"><img src="https://cdn.worldvectorlogo.com/logos/drupal-3.svg" height="40" alt="drupal logo"  /></a>
+  <a href="https://winscp.net/eng/index.php"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height="40" alt="winscp logo"  /></a>
   <img width="12" />
   </br>
   <h3>Frontend:</h3>
