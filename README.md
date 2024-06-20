@@ -17,7 +17,7 @@ QuickDocs - это веб-приложение, которое позволяе�
 ## <a href="https://dev-hello-project.pantheonsite.io/">Перейти на наш сайт</a>
 
 
-## Разработано с помощью
+## Разработано с помощью:
 <div align="left">
   <h3>Backend:</h3>
   <a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /></a>
@@ -42,6 +42,5 @@ QuickDocs - это веб-приложение, которое позволяе�
 
 ## Ссылки
 
-[Репозиторий](https://github.com/LN-KN/ShowWork) &nbsp;&middot;&nbsp;
 [Канбан-доска](https://yougile.com/team/47cdad97f983/DIGITAL-PORTFOLIO/Задачи) &nbsp;&middot;&nbsp;
 [Карточка проекта](https://project.ai-info.ru/sites/default/files/kartochka_proekta.pdf)
