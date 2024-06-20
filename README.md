@@ -36,8 +36,6 @@ QuickDocs - это веб-приложение, которое позволяе�
   <img width="12" />
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://gas-kvas.com/uploads/posts/2023-02/1675463201_gas-kvas-com-p-fonovii-risunok-v-css3-16.jpg" height="40" alt="css logo"  /></a>
   <img width="12" />
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://i0.wp.com/erhankocabuga.com/wp-content/uploads/2019/08/net-blazor.png?w=1400&ssl=1" height="40" alt="blazor logo"  /></a>
-  <img width="12" />
 </div>
 
 ## Ссылки
