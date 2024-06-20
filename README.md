@@ -8,7 +8,7 @@
 </h1>
 
 
-![screenshot](https://i.postimg.cc/qqYWKS8q/image-translated-3.jpg)
+![screenshot](https://i.postimg.cc/90VCQ16s/image-translated-4.jpg)
 
 ## Описание
 QuickDocs - это веб-приложение, которое позволяет авторизированным пользователям организовать, хранить и публиковать свои медицинские документы.
