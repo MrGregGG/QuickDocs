@@ -14,7 +14,8 @@
 ## Описание
 QuickDocs - это веб-приложение, которое позволяет авторизированным пользователям организовать, хранить и публиковать свои медицинские документы.
 
-https://dev-hello-project.pantheonsite.io/
+<a href="https://dev-hello-project.pantheonsite.io/">Перейти на наш сайт</a>
+
 
 ## Разработано с помощью
 <div align="left">
