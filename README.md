@@ -20,11 +20,11 @@ QuickDocs - это веб-приложение, которое позволяе�
 ## Разработано с помощью:
 <div align="left">
   <h3>Backend:</h3>
-  <a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /></a>
+  <a href="https://pantheon.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /></a>
   <img width="12" />
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://infogeek.in/assets/images/features/mvc.png" height="40" alt="aspnet logo"  /></a>
+  <a href="https://www.drupal.org/about/10"><img src="https://infogeek.in/assets/images/features/mvc.png" height="40" alt="aspnet logo"  /></a>
   <img width="12" />
-  <a href="https://learn.microsoft.com/ru-ru/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="mssql logo"  /></a>
+  <a href="https://winscp.net/eng/download.php><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="mssql logo"  /></a>
   <img width="12" />
   <a href="https://dappertutorial.net/download"><img src="https://www.lluisfranco.com/images/posts/DapperLogo.png" height="40" alt="dapper logo"  /></a>
   <img width="12" />
